@@ -1,0 +1,12 @@
+
+* `for`
+Un ciclo for es una operacion que perime repetir n veces una operacion cualuiera 
+* `&&`, `||`, `!`
+Son operaciones logicas, && resultara en verdadero solo si los dos valores pasados son verdaros , 
+A Es domingo =si
+B Esta nublado=si
+A&&B=si 
+|| pregunta por O (or en ingles) devolvera verdadero si uno o la otra es verdadera.- 
+! NIEGA , INVIERTE UNA CONDICION 
+!b=sOLEADO 
+permiten evaluar condiciones 
